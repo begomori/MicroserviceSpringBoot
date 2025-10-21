@@ -8,7 +8,12 @@
 		},
 		{
 			"path": "../../../../../../../../../../msvc-items"
+		},
+		{
+			"path": "../../../../../../../../../../msvc-gateway-server"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
 }
